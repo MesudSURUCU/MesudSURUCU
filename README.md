@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mesud SURUCU</h1>
 <h3 align="center">A passionate mobile application developer(Flutter/İos) from Turkey</h3>
 
-- 🔭 I’m interested in **developing mobile applications using the Flutter framework and Dart language**
+- 🔭 I’m interested in **developing mobile applications using the Flutter framework, Dart language, Swift**
 
 - 🌱 I’m currently learning **learning everything about Flutter and Dart**
 
@@ -29,5 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesudsurucu&show_icons=true&locale=en" alt="mesudsurucu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mesudsurucu&" alt="mesudsurucu" /></p>
-https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
+
