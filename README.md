@@ -3,7 +3,7 @@
 
 - 🔭 I’m interested in **developing mobile applications using the Flutter framework, Dart language, Swift**
 
-- 🌱 I’m currently learning **learning everything about Flutter and Dart**
+- 🌱 I’m currently **learning everything about Flutter and Dart**
 
 - 👯 I’m looking to collaborate on **open-source mobile app projects or innovative Flutter development initiatives**
 
